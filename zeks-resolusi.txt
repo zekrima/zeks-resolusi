@@ -1,3 +1,4 @@
 1. Zekrima Resolusi
 - Paham dan masir memakai github dalam 2 hari
 - Mulai belajar Bahasa Go
+- Dalam 2 minggu harus bisa membuat program sederhana
